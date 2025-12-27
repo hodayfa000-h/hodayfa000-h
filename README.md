@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: Don't Fucking Exist
-- ⚡ Fun fact: ... The Above Is True
+- 😄 Pronouns: 
+- ⚡ Fun fact: ... Grode
 
 <!---
 hodayfa000-h/hodayfa000-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
